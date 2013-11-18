@@ -1,5 +1,5 @@
 ##Git
-* [Introduction to Git with Scott Chacon of GitHub](www.youtube.com/watch?v=ZDR433b0HJY)
+* [Introduction to Git with Scott Chacon of GitHub](http://www.youtube.com/watch?v=ZDR433b0HJY)
 * [Linus on Git](http://www.youtube.com/watch?v=4XpnKHJAok8)
 
 ##Algorithms
