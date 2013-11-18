@@ -1,5 +1,6 @@
 ##Git
 * [Introduction to Git with Scott Chacon of GitHub](www.youtube.com/watch?v=ZDR433b0HJY)
+* [Linus on Git](http://www.youtube.com/watch?v=4XpnKHJAok8)
 
 ##Algorithms
 * [Introduction to Algorithms 6.006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011)
@@ -17,4 +18,4 @@
 
 ##Interesting
 * [Douglas Engelbart : The Mother of All Demos (1/9)](http://www.youtube.com/watch?v=JfIgzSoTMOs)
-
+* [The Lazy Programmer's Guide to Secure Computing](http://www.youtube.com/watch?v=eL5o4PFuxTY)
