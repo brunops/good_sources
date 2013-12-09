@@ -6,6 +6,10 @@
 * [Introduction to Algorithms 6.006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011)
 * [Introduction to Algorithms (SMA 5503) 6.046J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005)
 
+##one day...
+* [Video - Structure and Interpretation of Computer Programs](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
+* [Book - Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html)
+
 ##Papers
 * [On the Criteria To Be Used in Decomposing Systems into Modules](http://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf)
 
