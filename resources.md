@@ -7,10 +7,6 @@
 * [Introduction to Algorithms (SMA 5503) 6.046J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005)
 * [Algorithms: Design and Analysis, Part 1](https://class.coursera.org/algo-004/lecture/index)
 
-##one day...
-* [Video - Structure and Interpretation of Computer Programs](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
-* [Book - Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html)
-
 ##Papers
 * [On the Criteria To Be Used in Decomposing Systems into Modules](http://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf)
 
@@ -24,3 +20,6 @@
 ##Interesting
 * [Douglas Engelbart : The Mother of All Demos (1/9)](http://www.youtube.com/watch?v=JfIgzSoTMOs)
 * [The Lazy Programmer's Guide to Secure Computing](http://www.youtube.com/watch?v=eL5o4PFuxTY)
+* [Video - Structure and Interpretation of Computer Programs](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
+* [Book - Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html)
+* [The Art of UNIX Programming](http://www.faqs.org/docs/artu/index.html)
